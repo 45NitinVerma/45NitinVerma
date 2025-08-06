@@ -66,7 +66,5 @@
 
 
 ---
-<p  align="center" ><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=45nitinverma&theme=github_dark&hide_border=true" alt="Streak Stats" style="padding: 10px;"/></p>
 
 <p align="center" style="color:#00BFFF">Thanks for visiting! Keep coding 🚀</p>
